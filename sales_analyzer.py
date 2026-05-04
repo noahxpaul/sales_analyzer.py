@@ -1,6 +1,4 @@
-# This is a sales analyzer that pulls from sales_data.csv. It calculates total revenue (quantity * price for each row, summed), revenue per product, total quantity sold per product, and the day with the highest total revenue. It will then output the results to a text file called sales_report.txt. It will write a summary csv called product_summary.csv with columns: product, total_quantity, total_revenue.
-
-
+# This is a sales analyzer
 
 # Read sales data
 
